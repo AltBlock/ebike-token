@@ -1,0 +1,21 @@
+{
+  "name": "ebike-token",
+  "version": "0.1.0",
+  "description": "Ebike.io Ethereum smart contract for crowdsale.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Ethereum",
+    "Smart",
+    "Contract",
+    "Block",
+    "chain"
+  ],
+  "author": "pagal <bibash1270@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "zeppelin-solidity": "^1.8.0"
+  }
+}
