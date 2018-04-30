@@ -173,24 +173,24 @@
       "type": "event"
     }
   ],
-  "bytecode": "0x6060604052341561000f57600080fd5b60405160a0806107aa83398101604052808051906020019091908051906020019091908051906020019091908051906020019091908051906020019091905050848484848460008311151561006357600080fd5b600073ffffffffffffffffffffffffffffffffffffffff168273ffffffffffffffffffffffffffffffffffffffff161415151561009f57600080fd5b600073ffffffffffffffffffffffffffffffffffffffff168173ffffffffffffffffffffffffffffffffffffffff16141515156100db57600080fd5b8260028190555081600160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550806000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff16021790555050505042821015151561017557600080fd5b81811015151561018457600080fd5b816004819055508060058190555050505050505050610602806101a86000396000f30060606040526004361061008e576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680631515bc2b146100995780632c4e722e146100c65780634042b66f146100ef5780634b6753bc14610118578063521eb27314610141578063b7a8807c14610196578063ec8ac4d8146101bf578063fc0c546a146101ed575b61009733610242565b005b34156100a457600080fd5b6100ac610310565b604051808215151515815260200191505060405180910390f35b34156100d157600080fd5b6100d961031c565b6040518082815260200191505060405180910390f35b34156100fa57600080fd5b610102610322565b6040518082815260200191505060405180910390f35b341561012357600080fd5b61012b610328565b6040518082815260200191505060405180910390f35b341561014c57600080fd5b61015461032e565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b34156101a157600080fd5b6101a9610354565b6040518082815260200191505060405180910390f35b6101eb600480803573ffffffffffffffffffffffffffffffffffffffff16906020019091905050610242565b005b34156101f857600080fd5b61020061035a565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b600080349150610252838361037f565b61025b826103ac565b9050610272826003546103ca90919063ffffffff16565b60038190555061028283826103e8565b8273ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff167f623b3804fa71d67900d064613da8f94b9617215ee90799290593e1745087ad188484604051808381526020018281526020019250505060405180910390a36102f983836103f6565b6103016103fa565b61030b838361045e565b505050565b60006005544211905090565b60025481565b60035481565b60055481565b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b60045481565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b600454421015801561039357506005544211155b151561039e57600080fd5b6103a88282610462565b5050565b60006103c3600254836104b290919063ffffffff16565b9050919050565b60008082840190508381101515156103de57fe5b8091505092915050565b6103f282826104ed565b5050565b5050565b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166108fc349081150290604051600060405180830381858888f19350505050151561045c57600080fd5b565b5050565b600073ffffffffffffffffffffffffffffffffffffffff168273ffffffffffffffffffffffffffffffffffffffff161415151561049e57600080fd5b600081141515156104ae57600080fd5b5050565b60008060008414156104c757600091506104e6565b82840290508284828115156104d857fe5b041415156104e257fe5b8091505b5092915050565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166340c10f1983836040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15156105b057600080fd5b5af115156105bd57600080fd5b5050506040518051905015156105d257600080fd5b50505600a165627a7a7230582043cc0a17b3c8f6e65636d2c3a6a9f1ae2235dbbfb458afacaf0b6fde23bed1b70029",
-  "deployedBytecode": "0x60606040526004361061008e576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680631515bc2b146100995780632c4e722e146100c65780634042b66f146100ef5780634b6753bc14610118578063521eb27314610141578063b7a8807c14610196578063ec8ac4d8146101bf578063fc0c546a146101ed575b61009733610242565b005b34156100a457600080fd5b6100ac610310565b604051808215151515815260200191505060405180910390f35b34156100d157600080fd5b6100d961031c565b6040518082815260200191505060405180910390f35b34156100fa57600080fd5b610102610322565b6040518082815260200191505060405180910390f35b341561012357600080fd5b61012b610328565b6040518082815260200191505060405180910390f35b341561014c57600080fd5b61015461032e565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b34156101a157600080fd5b6101a9610354565b6040518082815260200191505060405180910390f35b6101eb600480803573ffffffffffffffffffffffffffffffffffffffff16906020019091905050610242565b005b34156101f857600080fd5b61020061035a565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b600080349150610252838361037f565b61025b826103ac565b9050610272826003546103ca90919063ffffffff16565b60038190555061028283826103e8565b8273ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff167f623b3804fa71d67900d064613da8f94b9617215ee90799290593e1745087ad188484604051808381526020018281526020019250505060405180910390a36102f983836103f6565b6103016103fa565b61030b838361045e565b505050565b60006005544211905090565b60025481565b60035481565b60055481565b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b60045481565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b600454421015801561039357506005544211155b151561039e57600080fd5b6103a88282610462565b5050565b60006103c3600254836104b290919063ffffffff16565b9050919050565b60008082840190508381101515156103de57fe5b8091505092915050565b6103f282826104ed565b5050565b5050565b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166108fc349081150290604051600060405180830381858888f19350505050151561045c57600080fd5b565b5050565b600073ffffffffffffffffffffffffffffffffffffffff168273ffffffffffffffffffffffffffffffffffffffff161415151561049e57600080fd5b600081141515156104ae57600080fd5b5050565b60008060008414156104c757600091506104e6565b82840290508284828115156104d857fe5b041415156104e257fe5b8091505b5092915050565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166340c10f1983836040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15156105b057600080fd5b5af115156105bd57600080fd5b5050506040518051905015156105d257600080fd5b50505600a165627a7a7230582043cc0a17b3c8f6e65636d2c3a6a9f1ae2235dbbfb458afacaf0b6fde23bed1b70029",
-  "sourceMap": "247:312:1:-;;;318:238;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;518:12;532;474:5;481:7;490:6;1711:1:3;1703:5;:9;1695:18;;;;;;;;1746:1;1727:21;;:7;:21;;;;1719:30;;;;;;;;1781:1;1763:20;;:6;:20;;;;1755:29;;;;;;;;1798:5;1791:4;:12;;;;1818:7;1809:6;;:16;;;;;;;;;;;;;;;;;;1839:6;1831:5;;:14;;;;;;;;;;;;;;;;;;1617:233;;;759:3:5;743:12;:19;;735:28;;;;;;;;793:12;777;:28;;769:37;;;;;;;;827:12;813:11;:26;;;;859:12;845:11;:26;;;;654:222;;318:238:1;;;;;247:312;;;;;;",
-  "deployedSourceMap": "247:312:1:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2080:21:3;2090:10;2080:9;:21::i;:::-;247:312:1;1030:83:5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1006:19:3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1056:24;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;292:26:5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;933:21:3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;262:26:5;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2242:542:3;;;;;;;;;;;;;;;;;;;;871:18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2242:542;2305:17;2436:14;2325:9;2305:29;;2340:45;2361:12;2375:9;2340:20;:45::i;:::-;2453:26;2469:9;2453:15;:26::i;:::-;2436:43;;2518:24;2532:9;2518;;:13;;:24;;;;:::i;:::-;2506:9;:36;;;;2549:38;2566:12;2580:6;2549:16;:38::i;:::-;2619:12;2593:58;;2607:10;2593:58;;;2633:9;2644:6;2593:58;;;;;;;;;;;;;;;;;;;;;;;;2658:47;2681:12;2695:9;2658:22;:47::i;:::-;2712:15;:13;:15::i;:::-;2733:46;2755:12;2769:9;2733:21;:46::i;:::-;2242:542;;;:::o;1030:83:5:-;1072:4;1097:11;;1091:3;:17;1084:24;;1030:83;:::o;1006:19:3:-;;;;:::o;1056:24::-;;;;:::o;292:26:5:-;;;;:::o;933:21:3:-;;;;;;;;;;;;;:::o;262:26:5:-;;;;:::o;871:18:3:-;;;;;;;;;;;;;:::o;1297:158:5:-;430:11;;423:3;:18;;:40;;;;;452:11;;445:3;:18;;423:40;415:49;;;;;;;;1398:52;1425:12;1439:10;1398:26;:52::i;:::-;1297:158;;:::o;5131:115:3:-;5199:7;5221:20;5236:4;;5221:10;:14;;:20;;;;:::i;:::-;5214:27;;5131:115;;;:::o;1007:129:6:-;1065:7;1080:9;1096:1;1092;:5;1080:17;;1115:1;1110;:6;;1103:14;;;;;;1130:1;1123:8;;1007:129;;;;;:::o;4395:132:3:-;4480:42;4495:12;4509;4480:14;:42::i;:::-;4395:132;;:::o;4780:113::-;;;:::o;5325:71::-;5365:6;;;;;;;;;;;:15;;:26;5381:9;5365:26;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;5325:71::o;3643:112::-;;;:::o;3208:157::-;3327:1;3303:26;;:12;:26;;;;3295:35;;;;;;;;3358:1;3344:10;:15;;3336:24;;;;;;;;3208:157;;:::o;203:173:6:-;261:7;316:9;285:1;280;:6;276:35;;;303:1;296:8;;;;276:35;332:1;328;:5;316:17;;355:1;350;346;:5;;;;;;;;:10;339:18;;;;;;370:1;363:8;;203:173;;;;;;:::o;504:150:4:-;609:5;;;;;;;;;;;595:25;;;621:12;635;595:53;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;587:62;;;;;;;;504:150;;:::o",
-  "source": "pragma solidity ^0.4.18;\r\n\r\nimport \"./EbikeToken.sol\";\r\nimport \"../node_modules/zeppelin-solidity/contracts/crowdsale/emission/MintedCrowdsale.sol\";\r\nimport \"../node_modules/zeppelin-solidity/contracts/crowdsale/validation/TimedCrowdsale.sol\";\r\n\r\ncontract EbikeTokenCrowdsale is TimedCrowdsale, MintedCrowdsale {\r\n    function EbikeTokenCrowdsale (uint256 _openingTime, uint256 _closingTime, uint256 _rate, address _wallet, MintableToken _token)\r\n    public \r\n    Crowdsale(_rate, _wallet, _token)\r\n    TimedCrowdsale(_openingTime, _closingTime) {\r\n\r\n    }\r\n}",
-  "sourcePath": "E:\\project\\blockchain\\ebike-token\\contracts\\EbikeTokenCrowdsale.sol",
+  "bytecode": "0x6060604052341561000f57600080fd5b60405160a08061079183398101604052808051906020019091908051906020019091908051906020019091908051906020019091908051906020019091905050848484848460008311151561006357600080fd5b600073ffffffffffffffffffffffffffffffffffffffff168273ffffffffffffffffffffffffffffffffffffffff161415151561009f57600080fd5b600073ffffffffffffffffffffffffffffffffffffffff168173ffffffffffffffffffffffffffffffffffffffff16141515156100db57600080fd5b8260028190555081600160006101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff160217905550806000806101000a81548173ffffffffffffffffffffffffffffffffffffffff021916908373ffffffffffffffffffffffffffffffffffffffff16021790555050505081811015151561017557600080fd5b8160048190555080600581905550505050505050506105f8806101996000396000f30060606040526004361061008e576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680631515bc2b146100995780632c4e722e146100c65780634042b66f146100ef5780634b6753bc14610118578063521eb27314610141578063b7a8807c14610196578063ec8ac4d8146101bf578063fc0c546a146101ed575b61009733610242565b005b34156100a457600080fd5b6100ac610310565b604051808215151515815260200191505060405180910390f35b34156100d157600080fd5b6100d961031c565b6040518082815260200191505060405180910390f35b34156100fa57600080fd5b610102610322565b6040518082815260200191505060405180910390f35b341561012357600080fd5b61012b610328565b6040518082815260200191505060405180910390f35b341561014c57600080fd5b61015461032e565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b34156101a157600080fd5b6101a9610354565b6040518082815260200191505060405180910390f35b6101eb600480803573ffffffffffffffffffffffffffffffffffffffff16906020019091905050610242565b005b34156101f857600080fd5b61020061035a565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b600080349150610252838361037f565b61025b826103ac565b9050610272826003546103ca90919063ffffffff16565b60038190555061028283826103e8565b8273ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff167f623b3804fa71d67900d064613da8f94b9617215ee90799290593e1745087ad188484604051808381526020018281526020019250505060405180910390a36102f983836103f6565b6103016103fa565b61030b838361045e565b505050565b60006005544211905090565b60025481565b60035481565b60055481565b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b60045481565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b600454421015801561039357506005544211155b151561039e57600080fd5b6103a88282610462565b5050565b60006103c3600254836104b290919063ffffffff16565b9050919050565b60008082840190508381101515156103de57fe5b8091505092915050565b6103f282826104ed565b5050565b5050565b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166108fc349081150290604051600060405180830381858888f19350505050151561045c57600080fd5b565b5050565b600073ffffffffffffffffffffffffffffffffffffffff168273ffffffffffffffffffffffffffffffffffffffff161415151561049e57600080fd5b600081141515156104ae57600080fd5b5050565b60008060008414156104c757600091506104e6565b82840290508284828115156104d857fe5b041415156104e257fe5b8091505b5092915050565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663a9059cbb83836040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15156105b057600080fd5b5af115156105bd57600080fd5b505050604051805190505050505600a165627a7a723058200b08001486e7ab1499aaf7d04df962a571131db64b4b4d35587db2d7aec3594f0029",
+  "deployedBytecode": "0x60606040526004361061008e576000357c0100000000000000000000000000000000000000000000000000000000900463ffffffff1680631515bc2b146100995780632c4e722e146100c65780634042b66f146100ef5780634b6753bc14610118578063521eb27314610141578063b7a8807c14610196578063ec8ac4d8146101bf578063fc0c546a146101ed575b61009733610242565b005b34156100a457600080fd5b6100ac610310565b604051808215151515815260200191505060405180910390f35b34156100d157600080fd5b6100d961031c565b6040518082815260200191505060405180910390f35b34156100fa57600080fd5b610102610322565b6040518082815260200191505060405180910390f35b341561012357600080fd5b61012b610328565b6040518082815260200191505060405180910390f35b341561014c57600080fd5b61015461032e565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b34156101a157600080fd5b6101a9610354565b6040518082815260200191505060405180910390f35b6101eb600480803573ffffffffffffffffffffffffffffffffffffffff16906020019091905050610242565b005b34156101f857600080fd5b61020061035a565b604051808273ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200191505060405180910390f35b600080349150610252838361037f565b61025b826103ac565b9050610272826003546103ca90919063ffffffff16565b60038190555061028283826103e8565b8273ffffffffffffffffffffffffffffffffffffffff163373ffffffffffffffffffffffffffffffffffffffff167f623b3804fa71d67900d064613da8f94b9617215ee90799290593e1745087ad188484604051808381526020018281526020019250505060405180910390a36102f983836103f6565b6103016103fa565b61030b838361045e565b505050565b60006005544211905090565b60025481565b60035481565b60055481565b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b60045481565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1681565b600454421015801561039357506005544211155b151561039e57600080fd5b6103a88282610462565b5050565b60006103c3600254836104b290919063ffffffff16565b9050919050565b60008082840190508381101515156103de57fe5b8091505092915050565b6103f282826104ed565b5050565b5050565b600160009054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff166108fc349081150290604051600060405180830381858888f19350505050151561045c57600080fd5b565b5050565b600073ffffffffffffffffffffffffffffffffffffffff168273ffffffffffffffffffffffffffffffffffffffff161415151561049e57600080fd5b600081141515156104ae57600080fd5b5050565b60008060008414156104c757600091506104e6565b82840290508284828115156104d857fe5b041415156104e257fe5b8091505b5092915050565b6000809054906101000a900473ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff1663a9059cbb83836040518363ffffffff167c0100000000000000000000000000000000000000000000000000000000028152600401808373ffffffffffffffffffffffffffffffffffffffff1673ffffffffffffffffffffffffffffffffffffffff16815260200182815260200192505050602060405180830381600087803b15156105b057600080fd5b5af115156105bd57600080fd5b505050604051805190505050505600a165627a7a723058200b08001486e7ab1499aaf7d04df962a571131db64b4b4d35587db2d7aec3594f0029",
+  "sourceMap": "224:280:1:-;;;277:225;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;466:12;480;421:5;428:7;437:6;1711:1:3;1703:5;:9;1695:18;;;;;;;;1746:1;1727:21;;:7;:21;;;;1719:30;;;;;;;;1781:1;1763:20;;:6;:20;;;;1755:29;;;;;;;;1798:5;1791:4;:12;;;;1818:7;1809:6;;:16;;;;;;;;;;;;;;;;;;1839:6;1831:5;;:14;;;;;;;;;;;;;;;;;;1617:233;;;796:12:4;780;:28;;772:37;;;;;;;;830:12;816:11;:26;;;;862:12;848:11;:26;;;;654:225;;277::1;;;;;224:280;;;;;;",
+  "deployedSourceMap": "224:280:1:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2080:21:3;2090:10;2080:9;:21::i;:::-;224:280:1;1033:83:4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1006:19:3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;1056:24;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;292:26:4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;933:21:3;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;262:26:4;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2242:542:3;;;;;;;;;;;;;;;;;;;;871:18;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;2242:542;2305:17;2436:14;2325:9;2305:29;;2340:45;2361:12;2375:9;2340:20;:45::i;:::-;2453:26;2469:9;2453:15;:26::i;:::-;2436:43;;2518:24;2532:9;2518;;:13;;:24;;;;:::i;:::-;2506:9;:36;;;;2549:38;2566:12;2580:6;2549:16;:38::i;:::-;2619:12;2593:58;;2607:10;2593:58;;;2633:9;2644:6;2593:58;;;;;;;;;;;;;;;;;;;;;;;;2658:47;2681:12;2695:9;2658:22;:47::i;:::-;2712:15;:13;:15::i;:::-;2733:46;2755:12;2769:9;2733:21;:46::i;:::-;2242:542;;;:::o;1033:83:4:-;1075:4;1100:11;;1094:3;:17;1087:24;;1033:83;:::o;1006:19:3:-;;;;:::o;1056:24::-;;;;:::o;292:26:4:-;;;;:::o;933:21:3:-;;;;;;;;;;;;;:::o;262:26:4:-;;;;:::o;871:18:3:-;;;;;;;;;;;;;:::o;1300:158:4:-;430:11;;423:3;:18;;:40;;;;;452:11;;445:3;:18;;423:40;415:49;;;;;;;;1401:52;1428:12;1442:10;1401:26;:52::i;:::-;1300:158;;:::o;5131:115:3:-;5199:7;5221:20;5236:4;;5221:10;:14;;:20;;;;:::i;:::-;5214:27;;5131:115;;;:::o;1007:129:5:-;1065:7;1080:9;1096:1;1092;:5;1080:17;;1115:1;1110;:6;;1103:14;;;;;;1130:1;1123:8;;1007:129;;;;;:::o;4395:132:3:-;4480:42;4495:12;4509;4480:14;:42::i;:::-;4395:132;;:::o;4780:113::-;;;:::o;5325:71::-;5365:6;;;;;;;;;;;:15;;:26;5381:9;5365:26;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;5325:71::o;3643:112::-;;;:::o;3208:157::-;3327:1;3303:26;;:12;:26;;;;3295:35;;;;;;;;3358:1;3344:10;:15;;3336:24;;;;;;;;3208:157;;:::o;203:173:5:-;261:7;316:9;285:1;280;:6;276:35;;;303:1;296:8;;;;276:35;332:1;328;:5;316:17;;355:1;350;346;:5;;;;;;;;:10;339:18;;;;;;370:1;363:8;;203:173;;;;;;:::o;4018:130:3:-;4101:5;;;;;;;;;;;:14;;;4116:12;4130;4101:42;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;4018:130;;:::o",
+  "source": "pragma solidity ^0.4.18;\n\nimport \"./EbikeToken.sol\";\nimport \"../node_modules/zeppelin-solidity/contracts/token/ERC20/ERC20.sol\";\nimport \"../node_modules/zeppelin-solidity/contracts/crowdsale/validation/TimedCrowdsale.sol\";\n\ncontract EbikeTokenCrowdsale is TimedCrowdsale {\n    function EbikeTokenCrowdsale (uint256 _openingTime, uint256 _closingTime, uint256 _rate, address _wallet, ERC20 _token) public \n      Crowdsale(_rate, _wallet, _token)\n      TimedCrowdsale(_openingTime, _closingTime) {\n\n    }\n}",
+  "sourcePath": "E:\\Projects\\ebike-token\\contracts\\EbikeTokenCrowdsale.sol",
   "ast": {
-    "absolutePath": "/E/project/blockchain/ebike-token/contracts/EbikeTokenCrowdsale.sol",
+    "absolutePath": "/E/Projects/ebike-token/contracts/EbikeTokenCrowdsale.sol",
     "exportedSymbols": {
       "EbikeTokenCrowdsale": [
-        65
+        66
       ]
     },
-    "id": 66,
+    "id": 67,
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 34,
+        "id": 37,
         "literals": [
           "solidity",
           "^",
@@ -201,35 +201,35 @@
         "src": "0:24:1"
       },
       {
-        "absolutePath": "/E/project/blockchain/ebike-token/contracts/EbikeToken.sol",
+        "absolutePath": "/E/Projects/ebike-token/contracts/EbikeToken.sol",
         "file": "./EbikeToken.sol",
-        "id": 35,
+        "id": 38,
         "nodeType": "ImportDirective",
-        "scope": 66,
-        "sourceUnit": 33,
-        "src": "28:26:1",
+        "scope": 67,
+        "sourceUnit": 36,
+        "src": "26:26:1",
         "symbolAliases": [],
         "unitAlias": ""
       },
       {
-        "absolutePath": "/E/project/blockchain/ebike-token/node_modules/zeppelin-solidity/contracts/crowdsale/emission/MintedCrowdsale.sol",
-        "file": "../node_modules/zeppelin-solidity/contracts/crowdsale/emission/MintedCrowdsale.sol",
-        "id": 36,
+        "absolutePath": "/E/Projects/ebike-token/node_modules/zeppelin-solidity/contracts/token/ERC20/ERC20.sol",
+        "file": "../node_modules/zeppelin-solidity/contracts/token/ERC20/ERC20.sol",
+        "id": 39,
         "nodeType": "ImportDirective",
-        "scope": 66,
-        "sourceUnit": 372,
-        "src": "56:92:1",
+        "scope": 67,
+        "sourceUnit": 718,
+        "src": "53:75:1",
         "symbolAliases": [],
         "unitAlias": ""
       },
       {
-        "absolutePath": "/E/project/blockchain/ebike-token/node_modules/zeppelin-solidity/contracts/crowdsale/validation/TimedCrowdsale.sol",
+        "absolutePath": "/E/Projects/ebike-token/node_modules/zeppelin-solidity/contracts/crowdsale/validation/TimedCrowdsale.sol",
         "file": "../node_modules/zeppelin-solidity/contracts/crowdsale/validation/TimedCrowdsale.sol",
-        "id": 37,
+        "id": 40,
         "nodeType": "ImportDirective",
-        "scope": 66,
-        "sourceUnit": 455,
-        "src": "150:93:1",
+        "scope": 67,
+        "sourceUnit": 425,
+        "src": "129:93:1",
         "symbolAliases": [],
         "unitAlias": ""
       },
@@ -239,66 +239,46 @@
             "arguments": [],
             "baseName": {
               "contractScope": null,
-              "id": 38,
+              "id": 41,
               "name": "TimedCrowdsale",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 454,
-              "src": "279:14:1",
+              "referencedDeclaration": 424,
+              "src": "256:14:1",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_TimedCrowdsale_$454",
+                "typeIdentifier": "t_contract$_TimedCrowdsale_$424",
                 "typeString": "contract TimedCrowdsale"
               }
             },
-            "id": 39,
+            "id": 42,
             "nodeType": "InheritanceSpecifier",
-            "src": "279:14:1"
-          },
-          {
-            "arguments": [],
-            "baseName": {
-              "contractScope": null,
-              "id": 40,
-              "name": "MintedCrowdsale",
-              "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 371,
-              "src": "295:15:1",
-              "typeDescriptions": {
-                "typeIdentifier": "t_contract$_MintedCrowdsale_$371",
-                "typeString": "contract MintedCrowdsale"
-              }
-            },
-            "id": 41,
-            "nodeType": "InheritanceSpecifier",
-            "src": "295:15:1"
+            "src": "256:14:1"
           }
         ],
         "contractDependencies": [
-          346,
-          371,
-          454
+          347,
+          424
         ],
         "contractKind": "contract",
         "documentation": null,
         "fullyImplemented": true,
-        "id": 65,
+        "id": 66,
         "linearizedBaseContracts": [
-          65,
-          371,
-          454,
-          346
+          66,
+          424,
+          347
         ],
         "name": "EbikeTokenCrowdsale",
         "nodeType": "ContractDefinition",
         "nodes": [
           {
             "body": {
-              "id": 63,
+              "id": 64,
               "nodeType": "Block",
-              "src": "546:10:1",
+              "src": "494:8:1",
               "statements": []
             },
             "documentation": null,
-            "id": 64,
+            "id": 65,
             "implemented": true,
             "isConstructor": true,
             "isDeclaredConst": false,
@@ -307,12 +287,12 @@
                 "arguments": [
                   {
                     "argumentTypes": null,
-                    "id": 54,
+                    "id": 55,
                     "name": "_rate",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 47,
-                    "src": "474:5:1",
+                    "referencedDeclaration": 48,
+                    "src": "421:5:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -320,12 +300,12 @@
                   },
                   {
                     "argumentTypes": null,
-                    "id": 55,
+                    "id": 56,
                     "name": "_wallet",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 49,
-                    "src": "481:7:1",
+                    "referencedDeclaration": 50,
+                    "src": "428:7:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -333,45 +313,45 @@
                   },
                   {
                     "argumentTypes": null,
-                    "id": 56,
+                    "id": 57,
                     "name": "_token",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 51,
-                    "src": "490:6:1",
+                    "referencedDeclaration": 52,
+                    "src": "437:6:1",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_MintableToken_$874",
-                      "typeString": "contract MintableToken"
+                      "typeIdentifier": "t_contract$_ERC20_$717",
+                      "typeString": "contract ERC20"
                     }
                   }
                 ],
-                "id": 57,
+                "id": 58,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 53,
+                  "id": 54,
                   "name": "Crowdsale",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 346,
-                  "src": "464:9:1",
+                  "referencedDeclaration": 347,
+                  "src": "411:9:1",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_type$_t_contract$_Crowdsale_$346_$",
+                    "typeIdentifier": "t_type$_t_contract$_Crowdsale_$347_$",
                     "typeString": "type(contract Crowdsale)"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "464:33:1"
+                "src": "411:33:1"
               },
               {
                 "arguments": [
                   {
                     "argumentTypes": null,
-                    "id": 59,
+                    "id": 60,
                     "name": "_openingTime",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 43,
-                    "src": "518:12:1",
+                    "referencedDeclaration": 44,
+                    "src": "466:12:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -379,49 +359,49 @@
                   },
                   {
                     "argumentTypes": null,
-                    "id": 60,
+                    "id": 61,
                     "name": "_closingTime",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 45,
-                    "src": "532:12:1",
+                    "referencedDeclaration": 46,
+                    "src": "480:12:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
                     }
                   }
                 ],
-                "id": 61,
+                "id": 62,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 58,
+                  "id": 59,
                   "name": "TimedCrowdsale",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 454,
-                  "src": "503:14:1",
+                  "referencedDeclaration": 424,
+                  "src": "451:14:1",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_type$_t_contract$_TimedCrowdsale_$454_$",
+                    "typeIdentifier": "t_type$_t_contract$_TimedCrowdsale_$424_$",
                     "typeString": "type(contract TimedCrowdsale)"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "503:42:1"
+                "src": "451:42:1"
               }
             ],
             "name": "EbikeTokenCrowdsale",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 52,
+              "id": 53,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 43,
+                  "id": 44,
                   "name": "_openingTime",
                   "nodeType": "VariableDeclaration",
-                  "scope": 64,
-                  "src": "348:20:1",
+                  "scope": 65,
+                  "src": "307:20:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -429,10 +409,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 42,
+                    "id": 43,
                     "name": "uint256",
                     "nodeType": "ElementaryTypeName",
-                    "src": "348:7:1",
+                    "src": "307:7:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -443,11 +423,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 45,
+                  "id": 46,
                   "name": "_closingTime",
                   "nodeType": "VariableDeclaration",
-                  "scope": 64,
-                  "src": "370:20:1",
+                  "scope": 65,
+                  "src": "329:20:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -455,10 +435,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 44,
+                    "id": 45,
                     "name": "uint256",
                     "nodeType": "ElementaryTypeName",
-                    "src": "370:7:1",
+                    "src": "329:7:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -469,11 +449,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 47,
+                  "id": 48,
                   "name": "_rate",
                   "nodeType": "VariableDeclaration",
-                  "scope": 64,
-                  "src": "392:13:1",
+                  "scope": 65,
+                  "src": "351:13:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -481,10 +461,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 46,
+                    "id": 47,
                     "name": "uint256",
                     "nodeType": "ElementaryTypeName",
-                    "src": "392:7:1",
+                    "src": "351:7:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -495,11 +475,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 49,
+                  "id": 50,
                   "name": "_wallet",
                   "nodeType": "VariableDeclaration",
-                  "scope": 64,
-                  "src": "407:15:1",
+                  "scope": 65,
+                  "src": "366:15:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -507,10 +487,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 48,
+                    "id": 49,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "407:7:1",
+                    "src": "366:7:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -521,67 +501,67 @@
                 },
                 {
                   "constant": false,
-                  "id": 51,
+                  "id": 52,
                   "name": "_token",
                   "nodeType": "VariableDeclaration",
-                  "scope": 64,
-                  "src": "424:20:1",
+                  "scope": 65,
+                  "src": "383:12:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_contract$_MintableToken_$874",
-                    "typeString": "contract MintableToken"
+                    "typeIdentifier": "t_contract$_ERC20_$717",
+                    "typeString": "contract ERC20"
                   },
                   "typeName": {
                     "contractScope": null,
-                    "id": 50,
-                    "name": "MintableToken",
+                    "id": 51,
+                    "name": "ERC20",
                     "nodeType": "UserDefinedTypeName",
-                    "referencedDeclaration": 874,
-                    "src": "424:13:1",
+                    "referencedDeclaration": 717,
+                    "src": "383:5:1",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_MintableToken_$874",
-                      "typeString": "contract MintableToken"
+                      "typeIdentifier": "t_contract$_ERC20_$717",
+                      "typeString": "contract ERC20"
                     }
                   },
                   "value": null,
                   "visibility": "internal"
                 }
               ],
-              "src": "347:98:1"
+              "src": "306:90:1"
             },
             "payable": false,
             "returnParameters": {
-              "id": 62,
+              "id": 63,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "546:0:1"
+              "src": "494:0:1"
             },
-            "scope": 65,
-            "src": "318:238:1",
+            "scope": 66,
+            "src": "277:225:1",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 66,
-        "src": "247:312:1"
+        "scope": 67,
+        "src": "224:280:1"
       }
     ],
-    "src": "0:559:1"
+    "src": "0:504:1"
   },
   "legacyAST": {
-    "absolutePath": "/E/project/blockchain/ebike-token/contracts/EbikeTokenCrowdsale.sol",
+    "absolutePath": "/E/Projects/ebike-token/contracts/EbikeTokenCrowdsale.sol",
     "exportedSymbols": {
       "EbikeTokenCrowdsale": [
-        65
+        66
       ]
     },
-    "id": 66,
+    "id": 67,
     "nodeType": "SourceUnit",
     "nodes": [
       {
-        "id": 34,
+        "id": 37,
         "literals": [
           "solidity",
           "^",
@@ -592,35 +572,35 @@
         "src": "0:24:1"
       },
       {
-        "absolutePath": "/E/project/blockchain/ebike-token/contracts/EbikeToken.sol",
+        "absolutePath": "/E/Projects/ebike-token/contracts/EbikeToken.sol",
         "file": "./EbikeToken.sol",
-        "id": 35,
+        "id": 38,
         "nodeType": "ImportDirective",
-        "scope": 66,
-        "sourceUnit": 33,
-        "src": "28:26:1",
+        "scope": 67,
+        "sourceUnit": 36,
+        "src": "26:26:1",
         "symbolAliases": [],
         "unitAlias": ""
       },
       {
-        "absolutePath": "/E/project/blockchain/ebike-token/node_modules/zeppelin-solidity/contracts/crowdsale/emission/MintedCrowdsale.sol",
-        "file": "../node_modules/zeppelin-solidity/contracts/crowdsale/emission/MintedCrowdsale.sol",
-        "id": 36,
+        "absolutePath": "/E/Projects/ebike-token/node_modules/zeppelin-solidity/contracts/token/ERC20/ERC20.sol",
+        "file": "../node_modules/zeppelin-solidity/contracts/token/ERC20/ERC20.sol",
+        "id": 39,
         "nodeType": "ImportDirective",
-        "scope": 66,
-        "sourceUnit": 372,
-        "src": "56:92:1",
+        "scope": 67,
+        "sourceUnit": 718,
+        "src": "53:75:1",
         "symbolAliases": [],
         "unitAlias": ""
       },
       {
-        "absolutePath": "/E/project/blockchain/ebike-token/node_modules/zeppelin-solidity/contracts/crowdsale/validation/TimedCrowdsale.sol",
+        "absolutePath": "/E/Projects/ebike-token/node_modules/zeppelin-solidity/contracts/crowdsale/validation/TimedCrowdsale.sol",
         "file": "../node_modules/zeppelin-solidity/contracts/crowdsale/validation/TimedCrowdsale.sol",
-        "id": 37,
+        "id": 40,
         "nodeType": "ImportDirective",
-        "scope": 66,
-        "sourceUnit": 455,
-        "src": "150:93:1",
+        "scope": 67,
+        "sourceUnit": 425,
+        "src": "129:93:1",
         "symbolAliases": [],
         "unitAlias": ""
       },
@@ -630,66 +610,46 @@
             "arguments": [],
             "baseName": {
               "contractScope": null,
-              "id": 38,
+              "id": 41,
               "name": "TimedCrowdsale",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 454,
-              "src": "279:14:1",
+              "referencedDeclaration": 424,
+              "src": "256:14:1",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_TimedCrowdsale_$454",
+                "typeIdentifier": "t_contract$_TimedCrowdsale_$424",
                 "typeString": "contract TimedCrowdsale"
               }
             },
-            "id": 39,
+            "id": 42,
             "nodeType": "InheritanceSpecifier",
-            "src": "279:14:1"
-          },
-          {
-            "arguments": [],
-            "baseName": {
-              "contractScope": null,
-              "id": 40,
-              "name": "MintedCrowdsale",
-              "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 371,
-              "src": "295:15:1",
-              "typeDescriptions": {
-                "typeIdentifier": "t_contract$_MintedCrowdsale_$371",
-                "typeString": "contract MintedCrowdsale"
-              }
-            },
-            "id": 41,
-            "nodeType": "InheritanceSpecifier",
-            "src": "295:15:1"
+            "src": "256:14:1"
           }
         ],
         "contractDependencies": [
-          346,
-          371,
-          454
+          347,
+          424
         ],
         "contractKind": "contract",
         "documentation": null,
         "fullyImplemented": true,
-        "id": 65,
+        "id": 66,
         "linearizedBaseContracts": [
-          65,
-          371,
-          454,
-          346
+          66,
+          424,
+          347
         ],
         "name": "EbikeTokenCrowdsale",
         "nodeType": "ContractDefinition",
         "nodes": [
           {
             "body": {
-              "id": 63,
+              "id": 64,
               "nodeType": "Block",
-              "src": "546:10:1",
+              "src": "494:8:1",
               "statements": []
             },
             "documentation": null,
-            "id": 64,
+            "id": 65,
             "implemented": true,
             "isConstructor": true,
             "isDeclaredConst": false,
@@ -698,12 +658,12 @@
                 "arguments": [
                   {
                     "argumentTypes": null,
-                    "id": 54,
+                    "id": 55,
                     "name": "_rate",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 47,
-                    "src": "474:5:1",
+                    "referencedDeclaration": 48,
+                    "src": "421:5:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -711,12 +671,12 @@
                   },
                   {
                     "argumentTypes": null,
-                    "id": 55,
+                    "id": 56,
                     "name": "_wallet",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 49,
-                    "src": "481:7:1",
+                    "referencedDeclaration": 50,
+                    "src": "428:7:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -724,45 +684,45 @@
                   },
                   {
                     "argumentTypes": null,
-                    "id": 56,
+                    "id": 57,
                     "name": "_token",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 51,
-                    "src": "490:6:1",
+                    "referencedDeclaration": 52,
+                    "src": "437:6:1",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_MintableToken_$874",
-                      "typeString": "contract MintableToken"
+                      "typeIdentifier": "t_contract$_ERC20_$717",
+                      "typeString": "contract ERC20"
                     }
                   }
                 ],
-                "id": 57,
+                "id": 58,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 53,
+                  "id": 54,
                   "name": "Crowdsale",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 346,
-                  "src": "464:9:1",
+                  "referencedDeclaration": 347,
+                  "src": "411:9:1",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_type$_t_contract$_Crowdsale_$346_$",
+                    "typeIdentifier": "t_type$_t_contract$_Crowdsale_$347_$",
                     "typeString": "type(contract Crowdsale)"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "464:33:1"
+                "src": "411:33:1"
               },
               {
                 "arguments": [
                   {
                     "argumentTypes": null,
-                    "id": 59,
+                    "id": 60,
                     "name": "_openingTime",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 43,
-                    "src": "518:12:1",
+                    "referencedDeclaration": 44,
+                    "src": "466:12:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -770,49 +730,49 @@
                   },
                   {
                     "argumentTypes": null,
-                    "id": 60,
+                    "id": 61,
                     "name": "_closingTime",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 45,
-                    "src": "532:12:1",
+                    "referencedDeclaration": 46,
+                    "src": "480:12:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
                     }
                   }
                 ],
-                "id": 61,
+                "id": 62,
                 "modifierName": {
                   "argumentTypes": null,
-                  "id": 58,
+                  "id": 59,
                   "name": "TimedCrowdsale",
                   "nodeType": "Identifier",
                   "overloadedDeclarations": [],
-                  "referencedDeclaration": 454,
-                  "src": "503:14:1",
+                  "referencedDeclaration": 424,
+                  "src": "451:14:1",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_type$_t_contract$_TimedCrowdsale_$454_$",
+                    "typeIdentifier": "t_type$_t_contract$_TimedCrowdsale_$424_$",
                     "typeString": "type(contract TimedCrowdsale)"
                   }
                 },
                 "nodeType": "ModifierInvocation",
-                "src": "503:42:1"
+                "src": "451:42:1"
               }
             ],
             "name": "EbikeTokenCrowdsale",
             "nodeType": "FunctionDefinition",
             "parameters": {
-              "id": 52,
+              "id": 53,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 43,
+                  "id": 44,
                   "name": "_openingTime",
                   "nodeType": "VariableDeclaration",
-                  "scope": 64,
-                  "src": "348:20:1",
+                  "scope": 65,
+                  "src": "307:20:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -820,10 +780,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 42,
+                    "id": 43,
                     "name": "uint256",
                     "nodeType": "ElementaryTypeName",
-                    "src": "348:7:1",
+                    "src": "307:7:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -834,11 +794,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 45,
+                  "id": 46,
                   "name": "_closingTime",
                   "nodeType": "VariableDeclaration",
-                  "scope": 64,
-                  "src": "370:20:1",
+                  "scope": 65,
+                  "src": "329:20:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -846,10 +806,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 44,
+                    "id": 45,
                     "name": "uint256",
                     "nodeType": "ElementaryTypeName",
-                    "src": "370:7:1",
+                    "src": "329:7:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -860,11 +820,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 47,
+                  "id": 48,
                   "name": "_rate",
                   "nodeType": "VariableDeclaration",
-                  "scope": 64,
-                  "src": "392:13:1",
+                  "scope": 65,
+                  "src": "351:13:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -872,10 +832,10 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 46,
+                    "id": 47,
                     "name": "uint256",
                     "nodeType": "ElementaryTypeName",
-                    "src": "392:7:1",
+                    "src": "351:7:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_uint256",
                       "typeString": "uint256"
@@ -886,11 +846,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 49,
+                  "id": 50,
                   "name": "_wallet",
                   "nodeType": "VariableDeclaration",
-                  "scope": 64,
-                  "src": "407:15:1",
+                  "scope": 65,
+                  "src": "366:15:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
@@ -898,10 +858,10 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 48,
+                    "id": 49,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
-                    "src": "407:7:1",
+                    "src": "366:7:1",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
                       "typeString": "address"
@@ -912,67 +872,60 @@
                 },
                 {
                   "constant": false,
-                  "id": 51,
+                  "id": 52,
                   "name": "_token",
                   "nodeType": "VariableDeclaration",
-                  "scope": 64,
-                  "src": "424:20:1",
+                  "scope": 65,
+                  "src": "383:12:1",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_contract$_MintableToken_$874",
-                    "typeString": "contract MintableToken"
+                    "typeIdentifier": "t_contract$_ERC20_$717",
+                    "typeString": "contract ERC20"
                   },
                   "typeName": {
                     "contractScope": null,
-                    "id": 50,
-                    "name": "MintableToken",
+                    "id": 51,
+                    "name": "ERC20",
                     "nodeType": "UserDefinedTypeName",
-                    "referencedDeclaration": 874,
-                    "src": "424:13:1",
+                    "referencedDeclaration": 717,
+                    "src": "383:5:1",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_MintableToken_$874",
-                      "typeString": "contract MintableToken"
+                      "typeIdentifier": "t_contract$_ERC20_$717",
+                      "typeString": "contract ERC20"
                     }
                   },
                   "value": null,
                   "visibility": "internal"
                 }
               ],
-              "src": "347:98:1"
+              "src": "306:90:1"
             },
             "payable": false,
             "returnParameters": {
-              "id": 62,
+              "id": 63,
               "nodeType": "ParameterList",
               "parameters": [],
-              "src": "546:0:1"
+              "src": "494:0:1"
             },
-            "scope": 65,
-            "src": "318:238:1",
+            "scope": 66,
+            "src": "277:225:1",
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           }
         ],
-        "scope": 66,
-        "src": "247:312:1"
+        "scope": 67,
+        "src": "224:280:1"
       }
     ],
-    "src": "0:559:1"
+    "src": "0:504:1"
   },
   "compiler": {
     "name": "solc",
     "version": "0.4.21+commit.dfe3193c.Emscripten.clang"
   },
-  "networks": {
-    "5777": {
-      "events": {},
-      "links": {},
-      "address": "0x404b285665c7d2b2c4fa2e6e617390ebc4c670cd",
-      "transactionHash": "0x0a7d54535f8885aaa882ef10045b025d13f2e481d6f6dc019bd3fb95e6e6ae7b"
-    }
-  },
+  "networks": {},
   "schemaVersion": "2.0.0",
-  "updatedAt": "2018-04-13T17:11:57.360Z"
+  "updatedAt": "2018-04-30T04:27:50.392Z"
 }
