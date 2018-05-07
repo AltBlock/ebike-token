@@ -1,13 +1,11 @@
 const EbikeTokenCrowdsale = artifacts.require('./EbikeTokenCrowdsale.sol');
-const EbikeToken = artifacts.require('./EbikeToken.sol');
-const env = require('dotenv').config()["parsed"]
+const EbikeToken = artifacts.require('./EbikeToken');
 
 module.exports = function (deployer, network, accounts) {
-    const startTime = Math.round((new Date(Date.now() - 86400000).getTime()) / 1000); // Yesterday
-    const endTime = startTime + duration.days(45);
-    const rate = 2500;
-    const wallet = env['WALLET_ADDRESS']
-
+    const startTime = Math.round((new Date(Date.now() + 86400000).getTime()) / 1000);
+    const endTime = startTime + duration.days(90);
+    const rate = 3600;
+    const wallet = accounts[0];
     return deployer
         .then(() => {
             return deployer.deploy(EbikeToken);
