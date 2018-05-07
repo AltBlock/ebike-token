@@ -3,7 +3,8 @@ const Web3 = require("web3")
 const HDWalletProvider = require('truffle-hdwallet-provider')
 
 const ropstenNetwork = "https://ropsten.infura.io/Ufdlod6ilFQfJwtGTz92"
-const seed_words = env["SEED_CODE"]
+// const seed_words = env["SEED_CODE"]
+const seed_words = "butter ball wall chapter ski monster impact avoid domain left carry viable"
 
 const ropstenProvider = new HDWalletProvider(seed_words, ropstenNetwork)
 const web3 = new Web3()
