@@ -18,8 +18,7 @@ module.exports = {
     },
     ropsten: {
       provider: ropstenProvider,
-      gas: 6721975,
-      gasPrice: web3.toWei("20", "gwei"),
+      gas: 4600000,
       network_id: "3",
     }
   }
