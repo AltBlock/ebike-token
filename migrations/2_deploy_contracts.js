@@ -1,14 +1,11 @@
 const EbikeTokenCrowdsale = artifacts.require('./EbikeTokenCrowdsale.sol');
-const EbikeToken = artifacts.require('./EbikeToken.sol');
+const EbikeToken = artifacts.require('./EbikeToken');
 
-module.exports = function(deployer, network, accounts) {
-    // 150 Second in future
-    const openingTime = web3.eth.getBlock('latest').timestamp + 150; 
-    // Set Limit to 20 days
-    const closingTime = openingTime + 86400 * 20;
-    const rate = new web3.BigNumber(1000);
-    const wallet = accounts[1];
-
+module.exports = function (deployer, network, accounts) {
+    const startTime = Math.round((new Date(Date.now() + 86400000).getTime()) / 1000);
+    const endTime = startTime + duration.days(90);
+    const rate = 3600;
+    const wallet = accounts[0];
     return deployer
         .then(() => {
             return deployer.deploy(EbikeToken);
@@ -16,11 +13,24 @@ module.exports = function(deployer, network, accounts) {
         .then(() => {
             return deployer.deploy(
                 EbikeTokenCrowdsale,
-                openingTime,
-                closingTime,
+                startTime,
+                endTime,
                 rate,
                 wallet,
                 EbikeToken.address
             );
-        });
+        })
+        .catch(error => {
+            console.log(error)
+        })
+};
+
+
+const duration = {
+    seconds: function (val) { return val; },
+    minutes: function (val) { return val * this.seconds(60); },
+    hours: function (val) { return val * this.minutes(60); },
+    days: function (val) { return val * this.hours(24); },
+    weeks: function (val) { return val * this.days(7); },
+    years: function (val) { return val * this.days(365); },
 };
