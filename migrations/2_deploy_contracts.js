@@ -2,9 +2,12 @@ const EbikeTokenCrowdsale = artifacts.require('./EbikeTokenCrowdsale.sol');
 const EbikeToken = artifacts.require('./EbikeToken');
 
 module.exports = function (deployer, network, accounts) {
+    // Start time now
     const startTime = Math.round((new Date(Date.now() + 86400000).getTime()) / 1000);
-    const endTime = startTime + duration.days(90);
-    const rate = 3600;
+    // 6 months duration from start time
+    const endTime = startTime + duration.days(180);
+    // Rate 3600 EBK per ETH
+    const rate = 3600;    
     const wallet = accounts[0];
     return deployer
         .then(() => {
